@@ -1,0 +1,15 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+#globalSummary {
+  border-left: 6px solid #0d6efd;
+}
